@@ -15,6 +15,7 @@ build:
 
 requirements:
   host:
+    - setuptools_scm
     - asteval >=0.9.22
     - numpy >=1.18
     - pip
