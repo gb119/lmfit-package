@@ -28,11 +28,6 @@ requirements:
     - scipy >=1.4
     - uncertainties >=3.0.1
 
-test:
-  imports:
-    - lmfit
-  requires:
-    - pytest
 
 about:
   home: "https://lmfit.github.io/lmfit-py/"
